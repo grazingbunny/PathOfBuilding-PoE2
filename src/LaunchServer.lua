@@ -80,6 +80,7 @@ Content-Type: text/html
 		}
 	</style>
 </head>
+<script>window.onload=function(){setTimeout(this.close, 4000)}</script>
 <body>
 	<div class="container">
 		<div class="card">
